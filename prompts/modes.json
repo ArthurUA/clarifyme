@@ -1,0 +1,14 @@
+[
+  {
+    "id": "simple",
+    "prompt": "Explain the following in very simple terms as if speaking to a beginner:"
+  },
+  {
+    "id": "steps",
+    "prompt": "Break this down into simple logical steps that are easy to follow:"
+  },
+  {
+    "id": "example",
+    "prompt": "Give a clear real-world example that helps understand the following for a total novice:"
+  }
+]
